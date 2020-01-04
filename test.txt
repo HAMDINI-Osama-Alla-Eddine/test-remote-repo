@@ -3,3 +3,4 @@ hero 2
 hero 33
 hero 4
 This a new line in the new branch called newfeature.
+Second line in the new branch
